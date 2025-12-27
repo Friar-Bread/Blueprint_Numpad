@@ -3,6 +3,8 @@
 
 CAD
 
+[Onshape Link](https://cad.onshape.com/documents/a49eb517829c44ded4fb0486/w/c1ab92566ff330dc74a4adf9/e/f54a2c3f6400f8bab8c2b79a?renderMode=0&uiState=695007a653e645a863be166c)
+
 <img width="1148" height="765" alt="CAD_Screenshot_Numpad" src="https://github.com/user-attachments/assets/6c682eed-2a3f-449e-810f-bc3267e84e50" />
 
 Schematic 
