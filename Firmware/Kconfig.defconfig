@@ -1,0 +1,7 @@
+if SHIELD_O_NUMPAD
+
+# Name must be less than 16 characters long!
+config ZMK_KEYBOARD_NAME
+    default "o-numpad"
+
+endif

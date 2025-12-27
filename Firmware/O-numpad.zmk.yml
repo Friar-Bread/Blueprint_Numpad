@@ -1,0 +1,11 @@
+file_format: "1"
+id: o-numpad
+name: O-Numpad
+type: shield
+url: https://github.com/Friar-Bread/Blueprint_Numpad
+requires:
+  - xiao
+exposes:
+features:
+  - keys
+siblings:
