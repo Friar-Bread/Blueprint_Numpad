@@ -1,5 +1,7 @@
 Item,Quant. Needed,Order Quant.,Price,Link
+PCB,1,5,$17.43,JLC PCB
 nRF52840,1,1,$9.99,https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?srsltid=AfmBOooNVJRtJbW0_-sioOdgaC2nRMISnjG38KtNPB509mUfPgTSD2YQ
+Shipping,,,$6.20,
 Keycaps,24,24,$0.00,3D printing
 Diodes,24,100,$1.35,https://www.aliexpress.us/item/3256801808479789.html?
 Battery,1,1,$11.79,https://www.aliexpress.us/item/3256809787664995.html
@@ -8,5 +10,5 @@ Key Switches,24,40,$17.45,https://www.aliexpress.us/item/3256806069646359.html?s
 806K Resistor,1,5,$0.50,https://www.digikey.com/en/products/detail/yageo/RC0805FR-07806KL/728163?_gl=1*4gvh37*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3BnetevqobDLaJXFequbegAI4TZ99Bg5tDC2t5AI5cwf-Y5ro517YwaAmoDEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLli4t4EHTCttVpMlLiA4DVNdA
 2M Resistor,1,5,$0.90,https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CPF0805B2M0E/4966423?_gl=1*11z9isq*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiApL7KBhC7ARIsAD2Xq3BnetevqobDLaJXFequbegAI4TZ99Bg5tDC2t5AI5cwf-Y5ro517YwaAmoDEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLli4t4EHTCttVpMlLiA4DVNdA
 Shipping,,,$4.99,
-Total,,,$52.43,
-Total with tax,,,$56.10,
+Total,,,$76.06,
+Total with tax,,,$81.38,
