@@ -14,7 +14,8 @@ CAD
 
 Schematic 
 
-<img width="882" height="631" alt="DevboardSchematic" src="https://github.com/user-attachments/assets/aed2d256-7d6c-4b70-b9e8-5a14c2d0faa7" />
+<img width="741" height="567" alt="Schematic_Screenshot_Numpad" src="https://github.com/user-attachments/assets/1358a7c0-c6ab-449d-9f64-7b421a7f2faf" />
+
 
 PCB
 
